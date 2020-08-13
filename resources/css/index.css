@@ -50,7 +50,7 @@ h3 {
 
 .first_img {
 
-    width: 46%;
+    max-width: 46%;
     margin-bottom: 20px;
 
 }
